@@ -42,7 +42,7 @@ export function WarriorSelection() {
         {/* Hero Section */}
         <div className="text-center mb-16 animate-[float_4s_ease-in-out_infinite]">
           <Sword className="w-24 h-24 mx-auto mb-8 text-primary" />
-          <h1 className="text-4xl md:text-6xl mb-6 text-white">Slack n Slay</h1>
+          <h1 className="text-4xl md:text-6xl mb-6 text-white">Pixel Warriors</h1>
           <p className="text-xl mb-12 text-gray-400">Choose Your Warrior</p>
         </div>
 
